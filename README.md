@@ -1,3 +1,5 @@
+# Portfolio
+## About me
 Hello, my name is Bianca Man. I'm considering myself a good person, meticulous, ambitious, sociable, problem solver, aaaand the best mom for my two wonderful kids. 
 I've been working for several years (9) in a multinational company, doing a great job because I was a fast learning person at the begining and I became an experienced data operator for my plant.
 I recently descovered a strong desire to learn and grow in the field of manual and automation software testing. My goals are to improve and develop testing knowledge and technical skills, in order to be a good tester. 
